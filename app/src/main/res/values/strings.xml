@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Month6Lesson2</string>
+    <string name="choose_photo">Выбор Фотографий</string>
+    <string name="send">send</string>
+</resources>
