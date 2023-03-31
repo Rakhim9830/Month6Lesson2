@@ -18,12 +18,15 @@
         android:verticalSpacing="8dp" />
 
     <Button
-        android:id="@+id/buttonSend"
+        android:id="@+id/submitImagesButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Send"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="16dp" />
-
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="137dp"
+        android:layout_marginEnd="119dp"
+        android:layout_marginBottom="50dp"
+        android:text="Submit Images" />
 </RelativeLayout>
